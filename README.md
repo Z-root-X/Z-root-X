@@ -36,7 +36,7 @@ Hi there! I'm **Zihad Hasan** 👋, a **tech-driven educator and cybersecurity e
   </a>
 </p>
 
-📧 **Email:** [zihad.hasan@skill.assunnafoundation.org](mailto:zihad.hasan@skill.assunnafoundation.org)  
+📧 **Email:** [zihad.connects@gmail.com](mailto:zihad.connects@gmail.com)  
 
 ---
 
