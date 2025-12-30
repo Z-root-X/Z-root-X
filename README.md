@@ -94,22 +94,14 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 
 ---
 
-### 📊 **The Data**
-The broken image you saw was a temporary loading error. I've switched to a robust "Tokyo Night" theme to fix it:
-
 <div align="center">
-  <br/>
-  <a href="https://github.com/Z-root-X">
-    <img src="https://github-readme-stats.vercel.app/api?username=Z-root-X&show_icons=true&theme=tokyonight&hide_border=true" alt="Z-root-X's Stats" />
-  </a>
-  <a href="https://github.com/Z-root-X">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-root-X&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Z-root-X&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+[![Z-root-X's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-root-X&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-root-X&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Z-root-X&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
