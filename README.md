@@ -28,29 +28,46 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 - 🧠 **Generative AI Educator** at *As-Sunnah Skill Development Institute*.
 - 🌍 Portfolio: [**zihadhasan.web.app**](https://zihadhasan.web.app)
 
-### 🏆 **Algorithmic Mastery & AI Leadership**
+### ⚔️ **The Tri-Force: Code, AI, & Security**
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 Competitive Programming</h3>
-      <p><em>Forged in the fires of C/C++ logic.</em></p>
+    <td width="33%" valign="top">
+      <h3 align="center">🧩 Competitive Programming</h3>
+      <p align="center"><em>Forged in the fires of C/C++ logic.</em></p>
       <ul>
-        <li><strong>Languages</strong>: C, C++, Python</li>
-        <li><strong>Arenas</strong>: CodeChef, Codeforces, Online Judges</li>
-        <li><strong>Focus</strong>: Data Structures, Algorithms, Optimization</li>
+        <li><strong>Arena</strong>: CodeChef, Codeforces</li>
+        <li><strong>Focus</strong>: Algorithms, Data Structures</li>
+        <li><strong>Stack</strong>: C++, Python, STL</li>
       </ul>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Generative AI Educator</h3>
-      <p><em>Empowering businesses with Automated Intelligence.</em></p>
-      <p>Currently leading AI curriculums at <strong>As-Sunnah Skill Development Institute</strong>.</p>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 Generative AI Educator</h3>
+      <p align="center"><em>Empowering As-Sunnah Institute.</em></p>
       <ul>
-        <li><strong>Prompt Engineering</strong>: Optimizing LLM outputs.</li>
-        <li><strong>Busines Automation</strong>: Building self-sustaining AI workflows.</li>
-        <li><strong>Productivity</strong>: Integrating GenAI into enterprise pipelines.</li>
+        <li><strong>Role</strong>: Prompt Eng. & Automation</li>
+        <li><strong>Focus</strong>: Enterprise Productivity</li>
+        <li><strong>Tools</strong>: LLMs, LangChain, Agents</li>
       </ul>
+      <div align="center">
+        <img src="https://img.shields.io/badge/GenAI-Instructor-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🕵️‍♂️ Cybersecurity & CTF</h3>
+      <p align="center"><em>Red Teaming & System Hardening.</em></p>
+      <ul>
+        <li><strong>OS</strong>: Kali Linux, Parrot Sec</li>
+        <li><strong>Tools</strong>: Burp Suite, Nmap, Metasploit</li>
+        <li><strong>Platforms</strong>: TryHackMe, HTB</li>
+      </ul>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Burp-FF6633?style=flat&logo=burpsuite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nmap-white?style=flat&logo=nmap&logoColor=black" />
+      </div>
     </td>
   </tr>
 </table>
