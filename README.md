@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.png" alt="Profile Header" width="100%" />
+  <img src="https://github.com/Z-root-X/Z-root-X/blob/main/assets/header.png?raw=true" alt="Profile Header" width="100%" />
 </div>
 
 <div align="center">
