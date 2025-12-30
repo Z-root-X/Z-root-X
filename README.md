@@ -95,13 +95,7 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 ---
 
 <div align="center">
-
-[![Z-root-X's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-root-X&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-root-X&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Z-root-X&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://metrics.lecoq.io/Z-root-X?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FDhaka" alt="Metrics" width="100%" />
 </div>
 
 ---
