@@ -32,7 +32,50 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 ### 🛠️ **The Tech Arsenal**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,firebase,supabase,nodejs,python,figma,git&perline=10" />
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+        <br>Firebase
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
+        <br>Supabase
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+        <br>Git
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -93,6 +136,12 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github.com/Z-root-X/Z-root-X/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://metrics.lecoq.io/Z-root-X?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FDhaka" alt="Metrics" width="100%" />
