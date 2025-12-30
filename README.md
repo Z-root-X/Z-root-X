@@ -195,7 +195,12 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Z-root-X&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+<div align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-32CD32?style=for-the-badge&logo=linux&logoColor=white" alt="System Online" />
+  <img src="https://img.shields.io/badge/SECURITY-HARDENED-DC143C?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security Hardened" />
+  <img src="https://img.shields.io/badge/LATENCY-LOW-00BFFF?style=for-the-badge&logo=fastapi&logoColor=white" alt="Low Latency" />
+  <img src="https://img.shields.io/badge/AVAILABILITY-HIGH-FFD700?style=for-the-badge&logo=googlecloud&logoColor=black" alt="High Availability" />
+</div>
 </div>
 
 <br/>
