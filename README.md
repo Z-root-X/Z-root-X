@@ -25,7 +25,7 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 
 - 🔭 I’m currently building **Next-Gen ERP Systems**.
 - 💎 I specialize in **React, TypeScript, and Advanced Data Grids**.
-- 🎨 design philosophy: **"Functionality shouldn't be ugly."**
+- 🌍 Portfolio: [**zihadhasan.web.app**](https://zihadhasan.web.app)
 
 ---
 
@@ -73,6 +73,21 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
     </td>
   </tr>
 </table>
+
+---
+
+### 🌐 **Connect & Discover**
+<div align="center">
+  <a href="https://zihadhasan.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-zihadhasan.web.app-20C20E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/zihadhasan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contact@zihadhasan.web.app">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
