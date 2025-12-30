@@ -189,7 +189,7 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 <br/>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Z-root-X?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FDhaka" alt="Metrics" width="100%" />
+  <img src="https://metrics.lecoq.io/Z-root-X?template=terminal&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FDhaka" alt="Terminal Metrics" width="100%" />
 </div>
 
 ---
