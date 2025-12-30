@@ -195,5 +195,13 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 ---
 
 <div align="center">
-  <em>System Architected by Z-root-X</em>
+  <img src="https://github-profile-trophy.vercel.app/?username=Z-root-X&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3><em>"Reality is broken. Game designers can fix it."</em></h3>
+  <p>Crafted with 🧠 and 💻 by <strong>Z-root-X</strong></p>
+  <p>2025 © All Rights Reserved</p>
 </div>
