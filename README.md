@@ -4,7 +4,10 @@
 
 <div align="center">
   <h1>Hi, I'm <a href="https://github.com/Z-root-X">Z-root-X</a> 👨‍💻</h1>
-  <h3>Full-Stack Product Architect | UI/UX Specialist | System Designer</h3>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Full-Stack+Product+Architect;Building+Enterprise+ERPs;UI%2FUX+System+Specialist;React+%7C+Firebase+%7C+TanStack" alt="Typing SVG" />
+  </a>
   
   <p>
     <em>Building complex enterprise systems with premium aesthetics.</em>
@@ -35,24 +38,41 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 ---
 
 ### 🔒 **Proprietary Architecture & Private Portfolio**
-*Since most of my high-level work is in private enterprise repositories, here is a showcase of the systems I architect:*
 
-#### 🎓 **Amalytics (Education Intelligence Engine)**
-> *A comprehensive LMS & Analytics Platform for educational institutes.*
-- **Architecture**: Role-Based Access Control (RBAC) for SuperAdmins, Teachers, and Students.
-- **Key Tech**: Real-time Firebase Sync, Recharts for Student Performance Tracking.
-- **Highlight**: "Live Class Pulse" – a real-time activity feed for classroom monitoring.
-
-#### 🏭 **MessMate (Enterprise Resource Planning)**
-> *High-performance ERP for handling large-scale applicant and inventory data.*
-- **Architecture**: Virtualized Data Grids (TanStack Table) handling 10k+ rows.
-- **Key Tech**: Client-side PDF Generation, CSV Batch Processing, Auto-ID Systems.
-- **Highlight**: A "Master Profile" view that aggregates history, payments, and logs in one UI.
-
-#### 🎫 **EventFlow (Event Management Core)**
-> *Full-stack booking and scheduling system.*
-- **Architecture**: Transactional booking flows with conflict detection.
-- **Key Tech**: Supabase Edge Functions, Row-Level Security (RLS).
+<table width="100%">
+  <tr>
+    <td width="33%">
+      <h3 align="center">🎓 Amalytics</h3>
+      <p align="center"><em>Education Intelligence Engine</em></p>
+      <p>A multi-tenant LMS with role-based access for SuperAdmins, Teachers, and Students.</p>
+      <ul>
+        <li><strong>Tech</strong>: React, Firebase, Recharts</li>
+        <li><strong>Feature</strong>: "Live Class Pulse" Real-time Sync</li>
+        <li><strong>Status</strong>: 🔒 Proprietary/Private</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h3 align="center">🏭 MessMate</h3>
+      <p align="center"><em>Enterprise Resource Planning</em></p>
+      <p>High-performance ERP for inventory and large-scale applicant management.</p>
+      <ul>
+        <li><strong>Tech</strong>: TanStack Table, Auto-ID System</li>
+        <li><strong>Feature</strong>: 10k+ Row Virtualization</li>
+        <li><strong>Status</strong>: 🔒 Proprietary/Private</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h3 align="center">🎫 EventFlow</h3>
+      <p align="center"><em>Event Management Core</em></p>
+      <p>Transactional booking system with conflict detection and ticket verification.</p>
+      <ul>
+        <li><strong>Tech</strong>: Supabase Edge Functions, RLS</li>
+        <li><strong>Feature</strong>: Digital Token Verification</li>
+        <li><strong>Status</strong>: 🔒 Proprietary/Private</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
