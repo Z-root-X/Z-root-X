@@ -25,7 +25,35 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 
 - 🔭 I’m currently building **Next-Gen ERP Systems**.
 - 💎 I specialize in **React, TypeScript, and Advanced Data Grids**.
+- 🧠 **Generative AI Educator** at *As-Sunnah Skill Development Institute*.
 - 🌍 Portfolio: [**zihadhasan.web.app**](https://zihadhasan.web.app)
+
+### 🏆 **Algorithmic Mastery & AI Leadership**
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 Competitive Programming</h3>
+      <p><em>Forged in the fires of C/C++ logic.</em></p>
+      <ul>
+        <li><strong>Languages</strong>: C, C++, Python</li>
+        <li><strong>Arenas</strong>: CodeChef, Codeforces, Online Judges</li>
+        <li><strong>Focus</strong>: Data Structures, Algorithms, Optimization</li>
+      </ul>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Generative AI Educator</h3>
+      <p><em>Empowering businesses with Automated Intelligence.</em></p>
+      <p>Currently leading AI curriculums at <strong>As-Sunnah Skill Development Institute</strong>.</p>
+      <ul>
+        <li><strong>Prompt Engineering</strong>: Optimizing LLM outputs.</li>
+        <li><strong>Busines Automation</strong>: Building self-sustaining AI workflows.</li>
+        <li><strong>Productivity</strong>: Integrating GenAI into enterprise pipelines.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
