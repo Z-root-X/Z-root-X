@@ -81,30 +81,35 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
   <a href="https://zihadhasan.web.app">
     <img src="https://img.shields.io/badge/Portfolio-zihadhasan.web.app-20C20E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/zihadhasan">
+  <a href="https://linkedin.com/in/pkmzihad">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact@zihadhasan.web.app">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://x.com/pkmzihad">
+    <img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://facebook.com/pkmzihad10">
+    <img src="https://img.shields.io/badge/Facebook-Add_Friend-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
 
 ---
 
 ### 📊 **The Data**
+The broken image you saw was a temporary loading error. I've switched to a robust "Tokyo Night" theme to fix it:
+
 <div align="center">
   <br/>
   <a href="https://github.com/Z-root-X">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Z-root-X&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Z-root-X's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Z-root-X&show_icons=true&theme=tokyonight&hide_border=true" alt="Z-root-X's Stats" />
   </a>
   <a href="https://github.com/Z-root-X">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-root-X&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-root-X&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Z-root-X&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Z-root-X&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
