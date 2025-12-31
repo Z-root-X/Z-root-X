@@ -125,38 +125,38 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 
 ---
 
-### 🔒 **Proprietary Architecture & Private Portfolio**
+### 💎 **Featured Masterpieces**
 
 <table width="100%">
   <tr>
     <td width="33%">
+      <h3 align="center">🚀 Assunnah Ecosystem</h3>
+      <p align="center"><em>Next-Gen Monorepo Platform</em></p>
+      <p>A unified <strong>Next.js 16</strong> (Web) and <strong>Flutter</strong> (Mobile) ecosystem for education management.</p>
+      <ul>
+        <li><strong>Architecture</strong>: Monorepo, Shared Backend</li>
+        <li><strong>Tech</strong>: React 19, Flutter 3.0, Firebase</li>
+        <li><strong>Link</strong>: <a href="https://github.com/Z-root-X/assunnahskill">View Code</a></li>
+      </ul>
+    </td>
+    <td width="33%">
       <h3 align="center">🎓 Amalytics</h3>
       <p align="center"><em>Education Intelligence Engine</em></p>
-      <p>A multi-tenant LMS with role-based access for SuperAdmins, Teachers, and Students.</p>
+      <p>Multi-tenant LMS with <strong>Role-Based Routing</strong> and deep analytics for comprehensive student tracking.</p>
       <ul>
-        <li><strong>Tech</strong>: React, Firebase, Recharts</li>
+        <li><strong>Tech</strong>: React 18, RBAC Security, jsPDF</li>
         <li><strong>Feature</strong>: "Live Class Pulse" Real-time Sync</li>
-        <li><strong>Status</strong>: 🔒 Proprietary/Private</li>
+        <li><strong>Link</strong>: <a href="https://github.com/Z-root-X/amalytics">View Code</a></li>
       </ul>
     </td>
     <td width="33%">
-      <h3 align="center">🏭 MessMate</h3>
-      <p align="center"><em>Enterprise Resource Planning</em></p>
-      <p>High-performance ERP for inventory and large-scale applicant management.</p>
+      <h3 align="center">🌌 Radiant Stellar</h3>
+      <p align="center"><em>Personal Brand Core</em></p>
+      <p>High-performance personal identity site featuring <strong>Magnetic UI</strong> and physics-based animations.</p>
       <ul>
-        <li><strong>Tech</strong>: TanStack Table, Auto-ID System</li>
-        <li><strong>Feature</strong>: 10k+ Row Virtualization</li>
-        <li><strong>Status</strong>: 🔒 Proprietary/Private</li>
-      </ul>
-    </td>
-    <td width="33%">
-      <h3 align="center">🎫 EventFlow</h3>
-      <p align="center"><em>Event Management Core</em></p>
-      <p>Transactional booking system with conflict detection and ticket verification.</p>
-      <ul>
-        <li><strong>Tech</strong>: Supabase Edge Functions, RLS</li>
-        <li><strong>Feature</strong>: Digital Token Verification</li>
-        <li><strong>Status</strong>: 🔒 Proprietary/Private</li>
+        <li><strong>Tech</strong>: Next.js 15, GSAP, Framer Motion</li>
+        <li><strong>Feature</strong>: 120fps Animations & Edge Auth</li>
+        <li><strong>Link</strong>: <a href="https://github.com/Z-root-X/zihadhasan">View Code</a></li>
       </ul>
     </td>
   </tr>
