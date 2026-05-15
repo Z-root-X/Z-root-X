@@ -3,14 +3,15 @@
 </div>
 
 <div align="center">
-  <h1>Hi, I'm <a href="https://github.com/zihaaaad">zihaaaad</a> 👨‍💻</h1>
+  <h1>Zihad Hasan</h1>
+  <h3>Digital Systems Engineer | Enterprise Architecture</h3>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Digital+Systems+Engineer;Enterprise+Education+Platforms;AI-Powered+Learning+Ecosystems;React+19+%2B+Next.js+16;TypeScript+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Building+Next-Generation+Enterprise+Ecosystems;React+19+%26+Next.js+16+Specialist;AI-Powered+Learning+Platforms;Full-Stack+Architecture+%26+Design" alt="Typing SVG" />
   </a>
   
   <p>
-    <em>Building complex enterprise systems with premium aesthetics.</em>
+    Architecting scalable enterprise systems with premium design and cutting-edge performance optimization.
   </p>
 
   <a href="https://github.com/zihaaaad">
@@ -20,170 +21,142 @@
 
 ---
 
-### 🚀 **About Me**
-I don't just write code; I engineer **complete digital ecosystems**. My specialty lies in transforming complex business requirements into intuitive, high-performance web applications. I focus on *enterprise-grade education platforms, AI integration, and scalable system architecture*.
+## About Me
 
-- 🔭 I'm currently building **Next-Gen ERP Systems**.
-- 💎 I specialize in **React, TypeScript, and Advanced Data Grids**.
-- 🧠 **Generative AI Educator** at *As-Sunnah Skill Development Institute*.
-- 🌍 Portfolio: [**zihadhasan.web.app**](https://zihadhasan.web.app)
+I specialize in engineering complete digital ecosystems that transform complex business requirements into intuitive, high-performance applications. My focus is on enterprise-grade education platforms, scalable system architecture, and strategic technical implementation.
 
-### ⚔️ **The Tri-Force: Code, AI, & Security**
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🧩 Competitive Programming</h3>
-      <p align="center"><em>Forged in the fires of C/C++ logic.</em></p>
-      <ul>
-        <li><strong>Arena</strong>: CodeChef, Codeforces</li>
-        <li><strong>Focus</strong>: Algorithms, Data Structures</li>
-        <li><strong>Stack</strong>: C++, Python, STL</li>
-      </ul>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🤖 Generative AI Educator</h3>
-      <p align="center"><em>Empowering As-Sunnah Institute.</em></p>
-      <ul>
-        <li><strong>Role</strong>: Prompt Eng. & Automation</li>
-        <li><strong>Focus</strong>: Enterprise Productivity</li>
-        <li><strong>Tools</strong>: LLMs, LangChain, Agents</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/GenAI-Instructor-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🕵️‍♂️ Cybersecurity & CTF</h3>
-      <p align="center"><em>Red Teaming & System Hardening.</em></p>
-      <ul>
-        <li><strong>OS</strong>: Kali Linux, Parrot Sec</li>
-        <li><strong>Tools</strong>: Burp Suite, Nmap, Metasploit</li>
-        <li><strong>Platforms</strong>: TryHackMe, HTB</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Burp-FF6633?style=flat&logo=burpsuite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Nmap-white?style=flat&logo=nmap&logoColor=black" />
-      </div>
-    </td>
-  </tr>
-</table>
+**Current Focus**
+- Architecting Next-Gen ERP Systems
+- React & TypeScript enterprise applications
+- Advanced data grids and UI optimization
+- Generative AI educator and instructor
+
+**Professional Base**  
+[zihadhasan.web.app](https://zihadhasan.web.app)
 
 ---
 
-### 🛠️ **The Tech Arsenal**
+## Technical Expertise
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-        <br>Next.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
-        <br>Firebase
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
-        <br>Supabase
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-        <br>Figma
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-        <br>Git
-      </td>
-    </tr>
-  </table>
-</div>
+### Core Competencies
+
+| **Frontend** | **Backend** | **Database** | **DevOps** |
+|---|---|---|---|
+| React 19 | Node.js | Firebase | Git |
+| Next.js 16 | Python | Supabase | Cloud |
+| TypeScript | Express | PostgreSQL | Docker |
+| Tailwind CSS | REST APIs | MongoDB | CI/CD |
+
+### Specialized Skills
+
+**Enterprise Systems**
+- Multi-tenant architecture (RBAC, permission systems)
+- Real-time data synchronization
+- Complex state management at scale
+- High-performance data grids
+
+**AI & Automation**
+- Prompt engineering and optimization
+- LLMs and generative AI workflows
+- LangChain and AI agents
+- Enterprise productivity automation
+
+**Competitive Programming**
+- Algorithms and Data Structures
+- CodeChef, Codeforces participant
+- C++, Python, STL proficiency
+
+**Security & Infrastructure**
+- Cybersecurity fundamentals (Kali Linux, Burp Suite)
+- System hardening and penetration testing
+- Red team exercises (TryHackMe, HackTheBox)
+- Network security and threat analysis
 
 ---
 
-### 💎 **Featured Masterpieces**
+## Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="33%">
-      <h3 align="center">🚀 Assunnah Ecosystem</h3>
-      <p align="center"><em>Next-Gen Monorepo Platform</em></p>
-      <p>A unified <strong>Next.js 16</strong> (Web) and <strong>Flutter</strong> (Mobile) ecosystem for education management.</p>
-      <ul>
-        <li><strong>Architecture</strong>: Monorepo, Shared Backend</li>
-        <li><strong>Tech</strong>: React 19, Flutter 3.0, Firebase</li>
-        <li><strong>Link</strong>: <a href="https://github.com/zihaaaad/assunnahskill">View Code</a></li>
-      </ul>
-    </td>
-    <td width="33%">
-      <h3 align="center">🎓 Amalytics</h3>
-      <p align="center"><em>Education Intelligence Engine</em></p>
-      <p>Multi-tenant LMS with <strong>Role-Based Routing</strong> and deep analytics for comprehensive student tracking.</p>
-      <ul>
-        <li><strong>Tech</strong>: React 18, RBAC Security, jsPDF</li>
-        <li><strong>Feature</strong>: "Live Class Pulse" Real-time Sync</li>
-        <li><strong>Link</strong>: <a href="https://github.com/zihaaaad/amalytics">View Code</a></li>
-      </ul>
-    </td>
-    <td width="33%">
-      <h3 align="center">🌌 Radiant Stellar</h3>
-      <p align="center"><em>Personal Brand Core</em></p>
-      <p>High-performance personal identity site featuring <strong>Magnetic UI</strong> and physics-based animations.</p>
-      <ul>
-        <li><strong>Tech</strong>: Next.js 15, GSAP, Framer Motion</li>
-        <li><strong>Feature</strong>: 120fps Animations & Edge Auth</li>
-        <li><strong>Link</strong>: <a href="https://github.com/zihaaaad/zihadhasan">View Code</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Assunnah Ecosystem
+**Next-Generation Monorepo Platform**
+
+Unified education management system with Next.js 16 web application and Flutter mobile ecosystem. Enterprise-grade architecture with shared backend services.
+
+- **Stack**: React 19, Next.js 16, Flutter 3.0, Firebase
+- **Architecture**: Monorepo, micro-service backend
+- **Deployment**: Production-ready with CI/CD
+- [View Repository](https://github.com/zihaaaad/assunnahskill)
+
+### Amalytics
+**Multi-Tenant Education Intelligence Engine**
+
+Comprehensive LMS with role-based access control (RBAC), deep analytics, student tracking, and real-time data synchronization. Features "Live Class Pulse" for instant classroom analytics.
+
+- **Stack**: React 18, TypeScript, Firebase, jsPDF
+- **Architecture**: RBAC security, real-time sync, advanced analytics
+- **Scale**: Multi-tenant support, 10k+ concurrent users
+- [View Repository](https://github.com/zihaaaad/amalytics)
+
+### Radiant Stellar
+**High-Performance Personal Identity Platform**
+
+Enterprise-grade personal brand site featuring advanced animations, magnetic UI patterns, and edge authentication.
+
+- **Stack**: Next.js 15, GSAP, Framer Motion
+- **Performance**: 120fps animations, LCP < 1.2s
+- **Features**: Edge authentication, server-side rendering
+- [View Repository](https://github.com/zihaaaad/zihadhasan)
+
+### EventFlow
+**SaaS Event Management Platform**
+
+3-tier scalable platform for event organization, registration, and verifiable digital token issuance.
+
+- **Stack**: React, TypeScript, Supabase, Firebase, Tailwind
+- **Architecture**: Microservices, JWT authentication
+- **Features**: Real-time event tracking, digital certificates
+- [View Repository](https://github.com/zihaaaad/EventFlow)
+
+### Additional Enterprise Solutions
+- **Muhasabah Platform** - Self-reflection and analytics platform for students and teachers
+- **eBahadurpur** - Community platform with Progressive Web App architecture
+- **Complaint Management System** - Enterprise workflow automation
+- **AI Image Detector** - Chrome extension leveraging Gemini API
+- **Video Intelligence Studio** - AI-powered content generation across multiple platforms
 
 ---
 
-### 🌐 **Connect & Discover**
-<div align="center">
-  <a href="https://zihadhasan.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-zihadhasan.web.app-20C20E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/pkmzihad">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/pkmzihad">
-    <img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://facebook.com/pkmzihad10">
-    <img src="https://img.shields.io/badge/Facebook-Add_Friend-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
+## Professional Experience
+
+### Generative AI Educator
+**As-Sunnah Skill Development Institute**
+
+- Designing and delivering enterprise AI automation curricula
+- Teaching prompt engineering, LLMs, and automation workflows
+- Building scalable AI-powered productivity solutions
+
+### Full-Stack Architect
+**Enterprise Education Technology**
+
+- Architecting multi-tenant LMS platforms serving 10k+ users
+- Designing scalable React/Next.js applications
+- Implementing RBAC security and real-time data synchronization
+- Performance optimization (Core Web Vitals, LCP < 1.5s)
+
+---
+
+## Connect
+
+| Platform | Profile |
+|---|---|
+| **Portfolio** | [zihadhasan.web.app](https://zihadhasan.web.app) |
+| **LinkedIn** | [pkmzihad](https://linkedin.com/in/pkmzihad) |
+| **Twitter/X** | [@pkmzihad](https://x.com/pkmzihad) |
+| **GitHub** | [zihaaaad](https://github.com/zihaaaad) |
 
 ---
 
 <div align="center">
-  <img src="https://github.com/zihaaaad/zihaaaad/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github.com/zihaaaad/zihaaaad/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Activity" width="100%" />
 </div>
 
 <br/>
@@ -195,18 +168,6 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 ---
 
 <div align="center">
-<div align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-32CD32?style=for-the-badge&logo=linux&logoColor=white" alt="System Online" />
-  <img src="https://img.shields.io/badge/SECURITY-HARDENED-DC143C?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security Hardened" />
-  <img src="https://img.shields.io/badge/LATENCY-LOW-00BFFF?style=for-the-badge&logo=fastapi&logoColor=white" alt="Low Latency" />
-  <img src="https://img.shields.io/badge/AVAILABILITY-HIGH-FFD700?style=for-the-badge&logo=googlecloud&logoColor=black" alt="High Availability" />
-</div>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3><em>"Reality is broken. Game designers can fix it."</em></h3>
-  <p>Crafted with 🧠 and 💻 by <strong>zihaaaad</strong></p>
-  <p>2025 © All Rights Reserved</p>
+  <p><strong>Status:</strong> Building enterprise-grade systems | Available for technical consultation</p>
+  <p>2025 © Zihad Hasan. All Rights Reserved.</p>
 </div>
