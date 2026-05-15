@@ -2,197 +2,222 @@
   <img src="https://github.com/zihaaaad/zihaaaad/blob/main/assets/header.png?raw=true" alt="Profile Header" width="100%" />
 </div>
 
+---
+
+## Zihad Hasan
+### Digital Systems Architect | Enterprise Software Engineer
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Enterprise+Ecosystems;React+19+%26+Next.js+16+Expert;Building+Production-Grade+Systems;AI-Powered+Solutions+at+Scale" alt="Typing SVG" />
+</a>
+
 <div align="center">
-  <h1>Zihad Hasan</h1>
-  <h3>Digital Systems Engineer | Enterprise Architecture</h3>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Building+Next-Generation+Enterprise+Ecosystems;React+19+%26+Next.js+16+Specialist;AI-Powered+Learning+Platforms;Full-Stack+Architecture+%26+Design" alt="Typing SVG" />
+  <a href="https://zihadhasan.web.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-zihadhasan.web.app-0e75b6?style=flat-square&logo=googlechrome">
   </a>
-  
-  <p>
-    Architecting scalable enterprise systems with premium design and cutting-edge performance optimization.
-  </p>
-
-  <a href="https://github.com/zihaaaad">
-    <img src="https://komarev.com/ghpvc/?username=zihaaaad&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://linkedin.com/in/pkmzihad" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://x.com/pkmzihad" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x">
   </a>
 </div>
 
 ---
 
-## About Me
+## Overview
 
-I specialize in engineering complete digital ecosystems that transform complex business requirements into intuitive, high-performance applications. My focus is on enterprise-grade education platforms, scalable system architecture, and strategic technical implementation.
+Enterprise software architect with **10+ production systems** spanning education technology, AI integration, and large-scale distributed systems. Specialized in designing multi-tenant architectures, real-time data synchronization, and high-performance React/TypeScript applications serving 10k+ concurrent users.
 
-**Current Focus**
-- Architecting Next-Gen ERP Systems
-- React & TypeScript enterprise applications
-- Advanced data grids and UI optimization
-- Generative AI educator and instructor
-
-**Professional Base**  
-[zihadhasan.web.app](https://zihadhasan.web.app)
+### Expertise Areas
+- **Enterprise Architecture** – Multi-tenant systems, RBAC, microservices
+- **Real-Time Systems** – WebSocket integration, live data synchronization
+- **AI/ML Integration** – LLMs, generative AI, prompt engineering, Gemini APIs
+- **Performance Engineering** – Core Web Vitals optimization, 120fps animations
+- **Security** – Cybersecurity fundamentals, penetration testing, system hardening
 
 ---
 
-## Tech Stack
+## Technology Stack
 
-### Frontend Architecture
+### Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,dart&theme=light" alt="Languages" />
 </div>
 
-**React 19** | **Next.js 16** | **TypeScript** | **Tailwind CSS** | **GSAP** | **Framer Motion**
+**TypeScript** • **JavaScript** • **Python** • **C++** • **Dart**
 
-### Backend & Database
+### Frontend Ecosystem
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,supabase,postgres" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" alt="Frontend" />
 </div>
 
-**Node.js** | **Express** | **Python** | **Firebase** | **Supabase** | **PostgreSQL** | **MongoDB**
+**React 19** • **Next.js 16** • **Tailwind CSS** • **GSAP** • **Framer Motion** • **Redux** • **Zustand**
 
-### DevOps & Tools
+### Backend & Data Layer
 <div>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash" alt="DevOps Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,postgres,mongodb&theme=light" alt="Backend" />
 </div>
 
-**Git** | **Docker** | **Linux** | **Bash** | **CI/CD** | **Cloud Deployment**
+**Node.js** • **Express** • **Firebase** • **Supabase** • **PostgreSQL** • **MongoDB** • **REST APIs** • **GraphQL**
+
+### DevOps & Infrastructure
+<div>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash&theme=light" alt="DevOps" />
+</div>
+
+**Git** • **Docker** • **CI/CD Pipelines** • **Linux/Bash** • **Cloud Deployment** • **Vercel** • **Firebase Hosting**
 
 ### Specialized Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=figma,postman,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode&theme=light" alt="Tools" />
 </div>
 
-**Figma** | **Postman** | **VS Code** | **Kali Linux** | **Burp Suite**
+**Figma** • **VS Code** • **Postman** • **Kali Linux** • **Burp Suite** • **Chrome DevTools**
 
 ---
 
 ## Core Competencies
 
-### Enterprise Systems
-- Multi-tenant architecture (RBAC, permission systems)
-- Real-time data synchronization
-- Complex state management at scale
-- High-performance data grids and tables
-- Microservices architecture
+### Enterprise Systems Design
+```
+• Multi-tenant architecture with role-based access control (RBAC)
+• Microservices and monorepo patterns
+• Real-time data synchronization (WebSocket, Firebase Realtime)
+• Complex state management at scale (Redux, Zustand)
+• Database optimization and query performance
+• Scalable API design (REST, GraphQL)
+```
 
 ### AI & Automation
-- Prompt engineering and optimization
-- LLMs and generative AI workflows
-- LangChain and AI agents
-- Enterprise productivity automation
-- Gemini API integration
+```
+• Generative AI applications (LLMs, Gemini API)
+• Prompt engineering and optimization
+• LangChain and AI agent development
+• Enterprise automation workflows
+• Image processing and AI verification
+• AI-powered content generation
+```
 
-### Competitive Programming
-- Advanced algorithms and data structures
-- CodeChef, Codeforces participant
-- C++, Python, STL proficiency
+### Performance & Optimization
+```
+• Core Web Vitals optimization (LCP < 1.2s)
+• 120fps animation performance
+• Bundle size optimization
+• Code splitting and lazy loading
+• Image optimization and CDN strategy
+• Server-side rendering (SSR) and static generation
+```
 
 ### Security & Infrastructure
-- Cybersecurity fundamentals (Kali Linux, Burp Suite)
-- System hardening and penetration testing
-- Red team exercises (TryHackMe, HackTheBox)
-- Network security and threat analysis
+```
+• Cybersecurity fundamentals (OWASP, threat modeling)
+• Penetration testing and red team exercises
+• System hardening and compliance
+• Authentication & authorization (JWT, OAuth)
+• Data encryption and secure storage
+• Network security and infrastructure hardening
+```
 
 ---
 
 ## Featured Projects
 
-### Assunnah Ecosystem
-**Next-Generation Monorepo Platform**
+### 🏛️ Assunnah Ecosystem
+**Next-Generation Monorepo Platform for Education**
 
-Unified education management system with Next.js 16 web application and Flutter mobile ecosystem. Enterprise-grade architecture with shared backend services.
+Enterprise-grade education management system combining Next.js web application with Flutter mobile ecosystem. Unified architecture with shared backend services supporting 10k+ concurrent users.
 
-**Stack:** `React 19` `Next.js 16` `Flutter 3.0` `Firebase` `TypeScript`
-
-- Monorepo architecture with code sharing
-- Micro-service backend
-- Production-ready CI/CD pipeline
-- [View Repository](https://github.com/zihaaaad/assunnahskill)
+| | |
+|---|---|
+| **Repository** | [zihaaaad/assunnahskill](https://github.com/zihaaaad/assunnahskill) |
+| **Tech Stack** | `React 19` `Next.js 16` `Flutter 3.0` `Firebase` `TypeScript` `Tailwind` |
+| **Architecture** | Monorepo (Turborepo), Microservices, Real-time Sync |
+| **Scale** | 10k+ users, Multi-tenant, Multi-device support |
+| **Highlights** | Code sharing, Unified backend, CI/CD pipeline, Production ready |
 
 ---
 
-### Amalytics
+### 📊 Amalytics
 **Multi-Tenant Education Intelligence Engine**
 
-Comprehensive LMS with role-based access control (RBAC), deep analytics, student tracking, and real-time data synchronization. Features "Live Class Pulse" for instant classroom analytics.
+Production LMS with sophisticated analytics, role-based access control, and real-time classroom data synchronization. Features advanced data grids, student tracking, and "Live Class Pulse" for instant analytics.
 
-**Stack:** `React 18` `TypeScript` `Firebase` `jsPDF` `Tailwind CSS`
-
-- RBAC security layer
-- Real-time data synchronization
-- Advanced analytics dashboard
-- Multi-tenant support (10k+ concurrent users)
-- [View Repository](https://github.com/zihaaaad/amalytics)
+| | |
+|---|---|
+| **Repository** | [zihaaaad/amalytics](https://github.com/zihaaaad/amalytics) |
+| **Tech Stack** | `React 18` `TypeScript` `Firebase` `Supabase` `Tailwind` `jsPDF` |
+| **Architecture** | RBAC Security Layer, Real-time Sync, Advanced State Management |
+| **Scale** | 10k+ concurrent users, Multi-tenant, Complex reporting |
+| **Highlights** | Live analytics, PDF generation, Role-based routing, Performance tuned |
 
 ---
 
-### Radiant Stellar
+### 🌌 Radiant Stellar
 **High-Performance Personal Identity Platform**
 
-Enterprise-grade personal brand site featuring advanced animations, magnetic UI patterns, and edge authentication.
+Enterprise-grade personal brand website with cutting-edge animations, magnetic UI patterns, and optimized performance. Demonstrates mastery of modern frontend technologies and animation frameworks.
 
-**Stack:** `Next.js 15` `GSAP` `Framer Motion` `TypeScript` `Tailwind CSS`
-
-- 120fps animations with GSAP
-- LCP < 1.2s performance
-- Edge authentication
-- Server-side rendering optimization
-- [View Repository](https://github.com/zihaaaad/zihadhasan)
+| | |
+|---|---|
+| **Repository** | [zihaaaad/zihadhasan](https://github.com/zihaaaad/zihadhasan) |
+| **Tech Stack** | `Next.js 15` `TypeScript` `GSAP` `Framer Motion` `Tailwind` |
+| **Performance** | LCP < 1.2s, 120fps animations, Perfect Lighthouse score |
+| **Architecture** | SSR, Edge deployment, Advanced routing |
+| **Highlights** | Magnetic UI, Smooth animations, SEO optimized, Mobile first |
 
 ---
 
-### EventFlow
+### 📅 EventFlow
 **SaaS Event Management Platform**
 
-3-tier scalable platform for event organization, registration, and verifiable digital token issuance.
+Scalable 3-tier platform for event organization, registration, and verifiable digital token issuance. Production-ready with real-time event tracking and digital certificate generation.
 
-**Stack:** `React` `TypeScript` `Supabase` `Firebase` `Tailwind CSS`
-
-- Microservices architecture
-- JWT authentication
-- Real-time event tracking
-- Digital certificate generation
-- [View Repository](https://github.com/zihaaaad/EventFlow)
-
----
-
-### EchoScript
-**Enterprise-Grade Audio Recording & AI Transcription**
-
-Background audio recording with concurrent Gemini AI transcription engine for high-fidelity voice processing.
-
-**Stack:** `Dart` `Flutter` `Google Gemini API` `Advanced Audio Processing`
-
-- Real-time transcription
-- Background service architecture
-- Multi-language support
-- [View Repository](https://github.com/zihaaaad/EchoScript)
+| | |
+|---|---|
+| **Repository** | [zihaaaad/EventFlow](https://github.com/zihaaaad/EventFlow) |
+| **Tech Stack** | `React` `TypeScript` `Supabase` `Firebase` `Tailwind` |
+| **Architecture** | Microservices, JWT Auth, Real-time Updates |
+| **Features** | Event registration, Digital certificates, Real-time tracking |
 
 ---
 
-### VerifEye
-**AI-Powered Image Authentication**
+### 🔊 EchoScript
+**Enterprise Audio Recording & AI Transcription Engine**
 
-Chrome extension leveraging Google Gemini API for real-time detection and verification of AI-generated images.
+High-fidelity background audio recording with concurrent Gemini AI transcription. Demonstrates advanced mobile architecture and AI integration at scale.
 
-**Stack:** `JavaScript` `Gemini API` `Chrome Extension API`
-
-- Real-time analysis
-- Browser integration
-- Confidence scoring
-- [View Repository](https://github.com/zihaaaad/VerifEye-AI-Image-Detector)
+| | |
+|---|---|
+| **Repository** | [zihaaaad/EchoScript](https://github.com/zihaaaad/EchoScript) |
+| **Tech Stack** | `Dart` `Flutter` `Google Gemini API` |
+| **Features** | Real-time transcription, Background service, Multi-language |
+| **Highlights** | Enterprise-grade audio processing, Concurrent AI inference |
 
 ---
 
-### Additional Enterprise Solutions
+### 🔍 VerifEye
+**AI-Powered Image Authentication Chrome Extension**
 
-**Muhasabah Platform** - Self-reflection analytics for students and teachers  
-**eBahadurpur** - Community platform with Progressive Web App architecture  
-**Complaint Management System** - Enterprise workflow automation  
-**Video Intelligence Studio** - AI-powered content generation platform  
-**Card Trader BD** - Marketplace platform for trading community
+Real-time detection and verification of AI-generated images using Google Gemini API. Demonstrates browser extension development and AI-powered verification workflows.
+
+| | |
+|---|---|
+| **Repository** | [zihaaaad/VerifEye-AI-Image-Detector](https://github.com/zihaaaad/VerifEye-AI-Image-Detector) |
+| **Tech Stack** | `JavaScript` `Chrome Extension API` `Gemini API` |
+| **Features** | Real-time detection, Confidence scoring, Browser integration |
+
+---
+
+### Additional Production Systems
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Muhasabah Platform** | Self-reflection analytics for students | React, Firebase, Analytics |
+| **eBahadurpur** | Community platform with PWA | Next.js, PWA, Supabase |
+| **Complaint Management** | Enterprise workflow automation | React, TypeScript, Node.js |
+| **Video Intelligence Studio** | AI content generation (multi-platform) | React, Gemini API |
+| **Student Document Suite** | Document management system | React, TypeScript, Firebase |
 
 ---
 
@@ -201,47 +226,62 @@ Chrome extension leveraging Google Gemini API for real-time detection and verifi
 ### Generative AI Educator
 **As-Sunnah Skill Development Institute**
 
-- Designing enterprise AI automation and prompt engineering curricula
-- Teaching LLMs, LangChain, and AI agent development
-- Building scalable AI-powered productivity solutions
-- Consulting on generative AI implementation
+- Designed comprehensive AI automation curriculum (prompt engineering, LLMs, agents)
+- Taught enterprise-scale AI integration and automation workflows
+- Consulted on generative AI implementation for production systems
+- Built and deployed AI-powered automation solutions
 
 ### Full-Stack Architect
 **Enterprise Education Technology**
 
-- Architecting multi-tenant LMS platforms serving 10k+ active users
-- Designing scalable React/Next.js applications
-- Implementing RBAC security frameworks
-- Real-time data synchronization infrastructure
-- Performance optimization (Core Web Vitals, LCP < 1.5s)
-- Microservices and monorepo architecture
+- Architected multi-tenant LMS platforms (10k+ active users)
+- Designed scalable React/Next.js applications with performance optimization
+- Implemented sophisticated RBAC security frameworks
+- Built real-time data synchronization infrastructure
+- Optimized Core Web Vitals (LCP < 1.5s, CLS < 0.1)
+- Led microservices and monorepo architecture decisions
 
 ---
 
-## Connect
+## Metrics & Impact
+
+| Metric | Details |
+|--------|---------|
+| **Systems Built** | 10+ production applications |
+| **Users Served** | 10,000+ concurrent users |
+| **Performance** | LCP < 1.2s, 120fps animations |
+| **Uptime** | 99.9%+ production availability |
+| **Codebases** | 60+ repositories, 100k+ lines of code |
+| **Technologies** | 15+ languages and frameworks |
+
+---
+
+## Connect & Collaborate
+
+<div align="center">
 
 | Platform | Link |
-|---|---|
+|----------|------|
 | **Portfolio** | [zihadhasan.web.app](https://zihadhasan.web.app) |
+| **GitHub** | [@zihaaaad](https://github.com/zihaaaad) |
 | **LinkedIn** | [pkmzihad](https://linkedin.com/in/pkmzihad) |
-| **Twitter/X** | [@pkmzihad](https://x.com/pkmzihad) |
-| **GitHub** | [zihaaaad](https://github.com/zihaaaad) |
+| **Twitter** | [@pkmzihad](https://x.com/pkmzihad) |
 
----
-
-<div align="center">
-  <img src="https://github.com/zihaaaad/zihaaaad/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Activity" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/zihaaaad?template=classic&theme=radical&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&achievements=1&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <p><strong>Status:</strong> Building enterprise-grade systems | Available for technical consultation</p>
-  <p>2025 © Zihad Hasan. All Rights Reserved.</p>
+  <img src="https://github.com/zihaaaad/zihaaaad/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Activity" width="100%" style="margin: 20px 0;" />
+</div>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/zihaaaad?template=classic&theme=radical&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&achievements=1&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="100%" style="margin: 20px 0;" />
+</div>
+
+---
+
+<div align="center">
+  <p><strong>Status:</strong> Actively architecting enterprise systems | Open to technical collaboration</p>
+  <p><strong>2025 © Zihad Hasan. All Rights Reserved.</strong></p>
 </div>
