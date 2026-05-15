@@ -36,37 +36,60 @@ I specialize in engineering complete digital ecosystems that transform complex b
 
 ---
 
-## Technical Expertise
+## Tech Stack
 
-### Core Competencies
+### Frontend Architecture
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" alt="Frontend Stack" />
+</div>
 
-| **Frontend** | **Backend** | **Database** | **DevOps** |
-|---|---|---|---|
-| React 19 | Node.js | Firebase | Git |
-| Next.js 16 | Python | Supabase | Cloud |
-| TypeScript | Express | PostgreSQL | Docker |
-| Tailwind CSS | REST APIs | MongoDB | CI/CD |
+**React 19** | **Next.js 16** | **TypeScript** | **Tailwind CSS** | **GSAP** | **Framer Motion**
 
-### Specialized Skills
+### Backend & Database
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,supabase,postgres" alt="Backend Stack" />
+</div>
 
-**Enterprise Systems**
+**Node.js** | **Express** | **Python** | **Firebase** | **Supabase** | **PostgreSQL** | **MongoDB**
+
+### DevOps & Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash" alt="DevOps Stack" />
+</div>
+
+**Git** | **Docker** | **Linux** | **Bash** | **CI/CD** | **Cloud Deployment**
+
+### Specialized Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode" alt="Tools" />
+</div>
+
+**Figma** | **Postman** | **VS Code** | **Kali Linux** | **Burp Suite**
+
+---
+
+## Core Competencies
+
+### Enterprise Systems
 - Multi-tenant architecture (RBAC, permission systems)
 - Real-time data synchronization
 - Complex state management at scale
-- High-performance data grids
+- High-performance data grids and tables
+- Microservices architecture
 
-**AI & Automation**
+### AI & Automation
 - Prompt engineering and optimization
 - LLMs and generative AI workflows
 - LangChain and AI agents
 - Enterprise productivity automation
+- Gemini API integration
 
-**Competitive Programming**
-- Algorithms and Data Structures
+### Competitive Programming
+- Advanced algorithms and data structures
 - CodeChef, Codeforces participant
 - C++, Python, STL proficiency
 
-**Security & Infrastructure**
+### Security & Infrastructure
 - Cybersecurity fundamentals (Kali Linux, Burp Suite)
 - System hardening and penetration testing
 - Red team exercises (TryHackMe, HackTheBox)
@@ -81,47 +104,95 @@ I specialize in engineering complete digital ecosystems that transform complex b
 
 Unified education management system with Next.js 16 web application and Flutter mobile ecosystem. Enterprise-grade architecture with shared backend services.
 
-- **Stack**: React 19, Next.js 16, Flutter 3.0, Firebase
-- **Architecture**: Monorepo, micro-service backend
-- **Deployment**: Production-ready with CI/CD
+**Stack:** `React 19` `Next.js 16` `Flutter 3.0` `Firebase` `TypeScript`
+
+- Monorepo architecture with code sharing
+- Micro-service backend
+- Production-ready CI/CD pipeline
 - [View Repository](https://github.com/zihaaaad/assunnahskill)
+
+---
 
 ### Amalytics
 **Multi-Tenant Education Intelligence Engine**
 
 Comprehensive LMS with role-based access control (RBAC), deep analytics, student tracking, and real-time data synchronization. Features "Live Class Pulse" for instant classroom analytics.
 
-- **Stack**: React 18, TypeScript, Firebase, jsPDF
-- **Architecture**: RBAC security, real-time sync, advanced analytics
-- **Scale**: Multi-tenant support, 10k+ concurrent users
+**Stack:** `React 18` `TypeScript` `Firebase` `jsPDF` `Tailwind CSS`
+
+- RBAC security layer
+- Real-time data synchronization
+- Advanced analytics dashboard
+- Multi-tenant support (10k+ concurrent users)
 - [View Repository](https://github.com/zihaaaad/amalytics)
+
+---
 
 ### Radiant Stellar
 **High-Performance Personal Identity Platform**
 
 Enterprise-grade personal brand site featuring advanced animations, magnetic UI patterns, and edge authentication.
 
-- **Stack**: Next.js 15, GSAP, Framer Motion
-- **Performance**: 120fps animations, LCP < 1.2s
-- **Features**: Edge authentication, server-side rendering
+**Stack:** `Next.js 15` `GSAP` `Framer Motion` `TypeScript` `Tailwind CSS`
+
+- 120fps animations with GSAP
+- LCP < 1.2s performance
+- Edge authentication
+- Server-side rendering optimization
 - [View Repository](https://github.com/zihaaaad/zihadhasan)
+
+---
 
 ### EventFlow
 **SaaS Event Management Platform**
 
 3-tier scalable platform for event organization, registration, and verifiable digital token issuance.
 
-- **Stack**: React, TypeScript, Supabase, Firebase, Tailwind
-- **Architecture**: Microservices, JWT authentication
-- **Features**: Real-time event tracking, digital certificates
+**Stack:** `React` `TypeScript` `Supabase` `Firebase` `Tailwind CSS`
+
+- Microservices architecture
+- JWT authentication
+- Real-time event tracking
+- Digital certificate generation
 - [View Repository](https://github.com/zihaaaad/EventFlow)
 
+---
+
+### EchoScript
+**Enterprise-Grade Audio Recording & AI Transcription**
+
+Background audio recording with concurrent Gemini AI transcription engine for high-fidelity voice processing.
+
+**Stack:** `Dart` `Flutter` `Google Gemini API` `Advanced Audio Processing`
+
+- Real-time transcription
+- Background service architecture
+- Multi-language support
+- [View Repository](https://github.com/zihaaaad/EchoScript)
+
+---
+
+### VerifEye
+**AI-Powered Image Authentication**
+
+Chrome extension leveraging Google Gemini API for real-time detection and verification of AI-generated images.
+
+**Stack:** `JavaScript` `Gemini API` `Chrome Extension API`
+
+- Real-time analysis
+- Browser integration
+- Confidence scoring
+- [View Repository](https://github.com/zihaaaad/VerifEye-AI-Image-Detector)
+
+---
+
 ### Additional Enterprise Solutions
-- **Muhasabah Platform** - Self-reflection and analytics platform for students and teachers
-- **eBahadurpur** - Community platform with Progressive Web App architecture
-- **Complaint Management System** - Enterprise workflow automation
-- **AI Image Detector** - Chrome extension leveraging Gemini API
-- **Video Intelligence Studio** - AI-powered content generation across multiple platforms
+
+**Muhasabah Platform** - Self-reflection analytics for students and teachers  
+**eBahadurpur** - Community platform with Progressive Web App architecture  
+**Complaint Management System** - Enterprise workflow automation  
+**Video Intelligence Studio** - AI-powered content generation platform  
+**Card Trader BD** - Marketplace platform for trading community
 
 ---
 
@@ -130,23 +201,26 @@ Enterprise-grade personal brand site featuring advanced animations, magnetic UI 
 ### Generative AI Educator
 **As-Sunnah Skill Development Institute**
 
-- Designing and delivering enterprise AI automation curricula
-- Teaching prompt engineering, LLMs, and automation workflows
+- Designing enterprise AI automation and prompt engineering curricula
+- Teaching LLMs, LangChain, and AI agent development
 - Building scalable AI-powered productivity solutions
+- Consulting on generative AI implementation
 
 ### Full-Stack Architect
 **Enterprise Education Technology**
 
-- Architecting multi-tenant LMS platforms serving 10k+ users
+- Architecting multi-tenant LMS platforms serving 10k+ active users
 - Designing scalable React/Next.js applications
-- Implementing RBAC security and real-time data synchronization
+- Implementing RBAC security frameworks
+- Real-time data synchronization infrastructure
 - Performance optimization (Core Web Vitals, LCP < 1.5s)
+- Microservices and monorepo architecture
 
 ---
 
 ## Connect
 
-| Platform | Profile |
+| Platform | Link |
 |---|---|
 | **Portfolio** | [zihadhasan.web.app](https://zihadhasan.web.app) |
 | **LinkedIn** | [pkmzihad](https://linkedin.com/in/pkmzihad) |
