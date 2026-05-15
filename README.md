@@ -6,7 +6,7 @@
   <h1>Hi, I'm <a href="https://github.com/zihaaaad">zihaaaad</a> 👨‍💻</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Full-Stack+Product+Architect;Building+Enterprise+ERPs;UI%2FUX+System+Specialist;React+%7C+Firebase+%7C+TanStack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Digital+Systems+Engineer;Enterprise+Education+Platforms;AI-Powered+Learning+Ecosystems;React+19+%2B+Next.js+16;TypeScript+Advocate" alt="Typing SVG" />
   </a>
   
   <p>
@@ -21,9 +21,9 @@
 ---
 
 ### 🚀 **About Me**
-I don't just write code; I engineer **complete digital ecosystems**. My specialty lies in transforming complex business requirements into intuitive, high-performance web applications. I focus on **Data Visualization**, **Role-Based Security**, and **Glassmorphism UI**.
+I don't just write code; I engineer **complete digital ecosystems**. My specialty lies in transforming complex business requirements into intuitive, high-performance web applications. I focus on *enterprise-grade education platforms, AI integration, and scalable system architecture*.
 
-- 🔭 I’m currently building **Next-Gen ERP Systems**.
+- 🔭 I'm currently building **Next-Gen ERP Systems**.
 - 💎 I specialize in **React, TypeScript, and Advanced Data Grids**.
 - 🧠 **Generative AI Educator** at *As-Sunnah Skill Development Institute*.
 - 🌍 Portfolio: [**zihadhasan.web.app**](https://zihadhasan.web.app)
@@ -189,7 +189,7 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 <br/>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/zihaaaad?template=classic&theme=radical&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&achievements=1&config.animations=true&config.timezone=Asia%2FDhaka&v=final_polish_v2" alt="Radical Metrics" width="100%" />
+  <img src="https://metrics.lecoq.io/zihaaaad?template=classic&theme=radical&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&achievements=1&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
