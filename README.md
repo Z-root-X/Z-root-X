@@ -27,21 +27,21 @@
 
 ---
 
-## ⚡ At A Glance (Repository Analysis)
+## At A Glance (Repository Analysis)
 
 I analyzed my GitHub workspace consisting of **58 total repositories** (both public and private systems) to summarize my stack distribution:
 
 <div align="center">
   
-| 📊 Repo Metrics | 🛠️ Top Tech Stack Distribution |
+| Repo Metrics | Top Tech Stack Distribution |
 | :--- | :--- |
-| 🗄️ **Total Projects**: 58<br>🔓 **Public Repos**: 24<br>🔒 **Private Repos**: 34 | 💻 **TypeScript**: 48.3% (28 Repos)<br>⚡ **JavaScript**: 13.8% (8 Repos)<br>🐍 **Python**: 12.1% (7 Repos)<br>📱 **Dart/Flutter**: 5.2% (3 Repos)<br>🌐 **HTML/CSS/Others**: 20.6% |
+| **Total Projects**: 58<br>Public Repos: 24<br>Private Repos: 34 | **TypeScript**: 48.3% (28 Repos)<br>**JavaScript**: 13.8% (8 Repos)<br>**Python**: 12.1% (7 Repos)<br>**Dart/Flutter**: 5.2% (3 Repos)<br>HTML/CSS/Others: 20.6% |
 
 </div>
 
 ---
 
-## 🚀 Overview
+## Overview
 
 I am an **Enterprise Software Architect & Full-Stack Developer** with a proven track record of designing, building, and deploying **10+ production-grade systems**. My work ranges from multi-tenant educational intelligence engines to real-time collaboration platforms and generative AI utilities. 
 
@@ -53,9 +53,9 @@ I specialize in:
 
 ---
 
-## 🛠️ Complete Technical Arsenal
+## Complete Technical Arsenal
 
-### 💻 Languages & Runtimes
+### Languages & Runtimes
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,dart,cpp,php,bash&theme=dark" alt="Languages" />
 </div>
@@ -65,7 +65,7 @@ I specialize in:
 *   **Dart** - Core platform for building multi-device mobile apps with Flutter.
 *   **C++ & PHP** - Systems engineering and legacy CMS integrations.
 
-### 🎨 Frontend & Mobile Ecosystems
+### Frontend & Mobile Ecosystems
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,figma&theme=dark" alt="Frontend" />
 </div>
@@ -73,7 +73,7 @@ I specialize in:
 *   **Frameworks:** React 19, Next.js 15/16 (SSR/ISR, Edge Middleware), Flutter.
 *   **State & Styling:** Tailwind CSS, Redux Toolkit, Zustand, GSAP & Framer Motion (for smooth 120fps UI animations).
 
-### 🗄️ Backend, Databases & Infrastructure
+### Backend, Databases & Infrastructure
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,postgres,mongodb,sqlite&theme=dark" alt="Backend" />
 </div>
@@ -84,9 +84,9 @@ I specialize in:
 
 ---
 
-## 🏆 Featured Production Projects
+## Featured Production Projects
 
-### 📅 Chuti (ছুটি) — Leave Management System
+### Chuti (ছুটি) — Leave Management System
 > **Lightweight, Offline-First Desktop & LAN Portal**
 > 
 > A local leave management application designed for schools and corporate offices. Runs as a standalone Windows app and operates over office Wi-Fi/LAN allowing seamless employee records management without cloud costs.
@@ -97,7 +97,7 @@ I specialize in:
 
 ---
 
-### 🏛️ Assunnah Skill Development Institute (ASSDI) Ecosystem
+### Assunnah Skill Development Institute (ASSDI) Ecosystem
 > **Next-Generation Education Monorepo & Mobile Platform**
 > 
 > A high-performance, unified LMS and course portal. Integrates Google Sheets data pipelines and server-side configurations to host course details and batch registries dynamically.
@@ -108,7 +108,7 @@ I specialize in:
 
 ---
 
-### 📊 Amalytics
+### Amalytics
 > **Multi-Tenant Spiritual & Educational Intelligence Engine**
 > 
 > Production LMS and tracker that digitizes Muhasabah (self-reflection) diaries. Built with enterprise-grade security filters and complex data logging grids for instant reporting.
@@ -119,7 +119,7 @@ I specialize in:
 
 ---
 
-### 🔊 EchoScript
+### EchoScript
 > **Concurrent Background Audio Recorder & Gemini AI Transcription Engine**
 > 
 > A robust utility for mobile platforms to capture high-fidelity voice recording in the background and transcribe it concurrently via the Google Gemini API.
@@ -130,7 +130,7 @@ I specialize in:
 
 ---
 
-### 🎞️ VidAI Studio
+### VidAI Studio
 > **Generative AI Multi-Platform Content Processor**
 > 
 > Full AI pipeline that captures videos from YouTube, TikTok, Facebook, and Instagram to instantly generate articles, summaries, and social media transcripts.
@@ -141,7 +141,7 @@ I specialize in:
 
 ---
 
-### 🔍 VerifEye
+### VerifEye
 > **AI-Powered Browser Image Authenticator**
 > 
 > A Chrome extension running Gemini models to analyze online images in real-time, detecting fake/generative graphics with a visual authenticity scale.
@@ -152,15 +152,15 @@ I specialize in:
 
 ---
 
-## 📈 Activity & Insights
+## Activity & Insights
 
 <div align="center">
-  <h3>🔥 Interactive Contribution Activity</h3>
+  <h3>Interactive Contribution Activity</h3>
   <img src="https://github.com/zihaaaad/zihaaaad/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Activity" width="100%" style="margin: 20px 0;" />
 </div>
 
 <div align="center">
-  <h3>⚡ Engineering Metrics</h3>
+  <h3>Engineering Metrics</h3>
   <img src="https://metrics.lecoq.io/zihaaaad?template=classic&theme=radical&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&achievements=1&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="100%" style="margin: 20px 0;" />
 </div>
 
@@ -168,5 +168,5 @@ I specialize in:
 
 <div align="center">
   <p><strong>Current Status:</strong> Actively architecting production software systems | Open to select technical collaborations</p>
-  <p><em>© 2026 Zihad Hasan. Crafted with 💻 and ☕.</em></p>
+  <p><em>© 2026 Zihad Hasan. Crafted with code and coffee.</em></p>
 </div>
