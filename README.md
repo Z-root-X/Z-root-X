@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/zihaaaad/zihaaaad/blob/main/assets/header.png?raw=true" alt="Profile Header" width="100%" />
+  <img src="https://github.com/zihaaaad/zihaaaad/blob/main/assets/header.jpg?raw=true" alt="Profile Header" width="100%" />
 </div>
 
 ---
