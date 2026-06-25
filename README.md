@@ -119,12 +119,24 @@ Highly interactive, animated responsive web templates and portfolios.
 ## Technical Competencies
 
 ### Languages & Runtimes
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,cpp,php,bash&theme=dark" alt="Languages" />
+</div>
+
 TypeScript, JavaScript (ES6+), Python, Dart, C++, PHP, Bash Scripting, Node.js.
 
 ### Frontend Technologies
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,figma&theme=dark" alt="Frontend Technologies" />
+</div>
+
 React 19, Next.js 15/16 (Server-Side Rendering, Incremental Static Regeneration, Middleware), Redux Toolkit, Zustand, GSAP, Framer Motion, HTML5, CSS3, Tailwind CSS.
 
 ### Backend, Database & Infrastructure
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,postgres,mongodb,sqlite&theme=dark" alt="Backend and Database" />
+</div>
+
 Express.js, Supabase, Firebase Realtime Database, Firestore, PostgreSQL, SQLite (WAL Mode), MongoDB, REST APIs, GraphQL, Docker, Git, Linux Administration, Vercel, Firebase Hosting.
 
 ---
