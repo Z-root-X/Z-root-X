@@ -1,18 +1,18 @@
 <div align="left">
-  <p><strong><font size="6">Zihad Hasan</font></strong><br>
-  <strong>Software Engineer & Generative AI Educator</strong><br>
+  <p><strong><font size="7">Zihad Hasan</font></strong><br>
+  <strong><font size="4">Software Engineer & Generative AI Educator</font></strong><br>
   Dhaka, Bangladesh · <a href="https://zihadhasan.web.app/">Website</a> · <a href="https://zihaaaad.github.io/about/">Portfolio</a> · <a href="https://www.linkedin.com/in/pkmzihad/">LinkedIn</a> · <a href="https://github.com/zihaaaad">GitHub</a> · <a href="mailto:zihad.connects@gmail.com">Email</a></p>
 </div>
 
 ---
 
-<p><strong><font size="4">Profile Overview</font></strong></p>
+<p><strong><font size="5">Profile Overview</font></strong></p>
 
 Software Engineer and Technical Educator specializing in full-stack web architectures, offline-first desktop systems, cross-platform mobile applications, and Generative AI integrations. Currently leading courses on Generative AI, digital literacy, and modern web fundamentals at the As-Sunnah Skill Development Institute (As-Sunnah Foundation).
 
 ---
 
-<p><strong><font size="4">Technical Stack & Tooling</font></strong></p>
+<p><strong><font size="5">Technical Stack & Tooling</font></strong></p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,dart,cpp,php,bash,nodejs,react,nextjs,flutter,tailwind,redux,html,css,express,firebase,supabase,postgres,sqlite,mongodb,docker,git,linux,vercel&perline=12&theme=dark" alt="Technical Stack" />
@@ -25,7 +25,7 @@ Software Engineer and Technical Educator specializing in full-stack web architec
 
 ---
 
-<p><strong><font size="4">Featured Repositories</font></strong></p>
+<p><strong><font size="5">Featured Repositories</font></strong></p>
 
 | Repository | Focus & Architecture | Core Stack | Links |
 | :--- | :--- | :--- | :--- |
@@ -40,7 +40,7 @@ Software Engineer and Technical Educator specializing in full-stack web architec
 
 ---
 
-<p><strong><font size="4">Contact & Profiles</font></strong></p>
+<p><strong><font size="5">Contact & Profiles</font></strong></p>
 
 * **Personal Platform:** [https://zihadhasan.web.app/](https://zihadhasan.web.app/)
 * **Portfolio Showcase:** [https://zihaaaad.github.io/about/](https://zihaaaad.github.io/about/)
