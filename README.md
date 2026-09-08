@@ -15,13 +15,13 @@ Software Engineer and Technical Educator specializing in full-stack web architec
 <p><strong><font size="5">Technical Stack & Tooling</font></strong></p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,cpp,php,bash,nodejs,react,nextjs,flutter,tailwind,redux,html,css,express,firebase,supabase,postgres,sqlite,mongodb,docker,git,linux,vercel&perline=12&theme=dark" alt="Technical Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,cpp,php,bash,nodejs,react,nextjs,flutter,tailwind,redux,html,css,express,firebase,supabase,postgres,sqlite,mongodb,docker,git,linux,redhat,vercel&perline=13&theme=dark" alt="Technical Stack" />
 </p>
 
 * **Languages & Runtimes:** TypeScript, JavaScript (ES6+), Python, Dart, C++, PHP, Bash, Node.js
 * **Frontend & Mobile:** React 19, Next.js 15, Flutter, Redux Toolkit, Zustand, Tailwind CSS, HTML5, Modern CSS
 * **Desktop & System Software:** Electron, CustomTkinter, FFmpeg, SQLite (WAL Mode), Native OS Font Registry APIs
-* **Backend & Cloud Infrastructure:** Node.js, Express, Firebase (Realtime Database, Firestore, Auth), Supabase, PostgreSQL, SQLite, REST APIs, GraphQL, Docker, Linux, Vercel
+* **Backend, Systems & Cloud:** Node.js, Express, Firebase (Realtime Database, Firestore, Auth), Supabase, PostgreSQL, SQLite, REST APIs, GraphQL, Docker, Red Hat Enterprise Linux (RHEL), Linux Administration, Vercel
 
 ---
 
