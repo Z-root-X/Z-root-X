@@ -1,92 +1,47 @@
 # Zihad Hasan
-### Software Engineer & Generative AI Educator
+**Software Engineer & Generative AI Educator**  
+Dhaka, Bangladesh · [Website](https://zihadhasan.web.app/) · [Portfolio](https://zihaaaad.github.io/about/) · [LinkedIn](https://www.linkedin.com/in/pkmzihad/) · [GitHub](https://github.com/zihaaaad) · [Email](mailto:zihad.connects@gmail.com)
 
 ---
 
-## Profile Overview
+## Overview
 
-Software Engineer and Technical Educator based in Dhaka, Bangladesh. Specializing in full-stack web platforms, offline-first desktop software, cross-platform mobile apps, and Generative AI integrations. Trainer at the As-Sunnah Skill Development Institute (As-Sunnah Foundation), delivering curricula on Generative AI, digital literacy, and modern web fundamentals.
+Software Engineer and Technical Educator specializing in full-stack web architectures, offline-first desktop systems, cross-platform mobile applications, and Generative AI integrations. Currently leading courses on Generative AI, digital literacy, and modern web fundamentals at the As-Sunnah Skill Development Institute (As-Sunnah Foundation).
 
 ---
 
 ## Technical Stack & Tooling
 
-### Languages & Runtimes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,cpp,php,bash,nodejs&theme=dark" alt="Languages and Runtimes" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,cpp,php,bash,nodejs,react,nextjs,flutter,tailwind,redux,html,css,express,firebase,supabase,postgres,sqlite,mongodb,docker,git,linux,vercel&perline=12&theme=dark" alt="Technical Stack" />
 </p>
 
-TypeScript, JavaScript (ES6+), Python, Dart, C++, PHP, Bash, Node.js.
-
-### Frontend & Mobile Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,redux,html,css,figma&theme=dark" alt="Frontend and Mobile" />
-</p>
-
-React 19, Next.js 15, Flutter, Redux Toolkit, Zustand, Tailwind CSS, HTML5, Modern CSS.
-
-### Backend, Databases & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express,firebase,supabase,postgres,sqlite,mongodb,docker,git,linux,vercel&theme=dark" alt="Backend and Infrastructure" />
-</p>
-
-Node.js, Express, Firebase (Realtime Database, Firestore, Auth), Supabase, PostgreSQL, SQLite (WAL Mode), MongoDB, REST APIs, GraphQL, Docker, Linux, Vercel.
+* **Languages & Runtimes:** TypeScript, JavaScript (ES6+), Python, Dart, C++, PHP, Bash, Node.js
+* **Frontend & Mobile:** React 19, Next.js 15, Flutter, Redux Toolkit, Zustand, Tailwind CSS, HTML5, Modern CSS
+* **Desktop & System Software:** Electron, CustomTkinter, FFmpeg, SQLite (WAL Mode), Native OS Font Registry APIs
+* **Backend & Cloud Infrastructure:** Node.js, Express, Firebase (Realtime Database, Firestore, Auth), Supabase, PostgreSQL, SQLite, REST APIs, GraphQL, Docker, Linux, Vercel
 
 ---
 
 ## Featured Repositories
 
-### 1. Rupantor
-Native desktop font management suite with Adobe After Effects/Bridge automation, OS-level font registry mapping, and offline-first licensing.
-* **Stack:** Electron, React 19, TypeScript, Firebase
-* **Repository:** [zihaaaad/Rupantor](https://github.com/zihaaaad/Rupantor)
-* **Live Site:** [https://zihaaaad.github.io/Rupantor/](https://zihaaaad.github.io/Rupantor/)
-
-### 2. Chuti (ছুটি)
-Offline-first, on-premises Leave Management System engineered with automated quota deductions, sandwich rule logic, WAL database backups, and local LAN network sharing.
-* **Stack:** Next.js, TypeScript, SQLite, Tailwind CSS, Node.js
-* **Repository:** [zihaaaad/Chuti](https://github.com/zihaaaad/Chuti)
-* **Live Site:** [https://zihaaaad.github.io/Chuti/](https://zihaaaad.github.io/Chuti/)
-
-### 3. EchoScript
-High-fidelity background audio recording application with a concurrent speech-to-text pipeline integrating the Google Gemini API for real-time transcription.
-* **Stack:** Flutter, Dart, Google Gemini API, Android Background Services
-* **Repository:** [zihaaaad/EchoScript](https://github.com/zihaaaad/EchoScript)
-
-### 4. VerifEye AI Detector
-Google Chrome extension leveraging Gemini Vision models to inspect, analyze, and detect AI-generated images in real-time across web pages.
-* **Stack:** JavaScript, Chrome Extension Manifest v3, Gemini API
-* **Repository:** [zihaaaad/VerifEye-AI-Image-Detector](https://github.com/zihaaaad/VerifEye-AI-Image-Detector)
-
-### 5. Jontro
-Modern desktop video-to-audio extraction utility supporting batch conversions, high-bitrate audio transcoding, and instant UI state responsiveness.
-* **Stack:** Electron, React, TypeScript, FFmpeg
-* **Repository:** [zihaaaad/Jontro](https://github.com/zihaaaad/Jontro)
-* **Live Site:** [https://zihaaaad.github.io/Jontro/](https://zihaaaad.github.io/Jontro/)
-
-### 6. DocuMint
-Offline desktop document processing suite designed for optical character recognition (OCR), text extraction, and batch format conversions.
-* **Stack:** Python, Tesseract OCR, PIL/Pillow, CustomTkinter
-* **Repository:** [zihaaaad/DocuMint](https://github.com/zihaaaad/DocuMint)
-
-### 7. about (Portfolio)
-Clean, lightweight, and responsive static personal portfolio showcasing software projects and professional background.
-* **Stack:** Semantic HTML5, Modern CSS3, Vanilla JavaScript
-* **Repository:** [zihaaaad/about](https://github.com/zihaaaad/about)
-* **Live Site:** [https://zihaaaad.github.io/about/](https://zihaaaad.github.io/about/)
-
-### 8. SendFiles
-Web-based peer-to-peer file transfer application utilizing direct browser data channels with real-time transfer state management.
-* **Stack:** WebRTC, TypeScript, React
-* **Repository:** [zihaaaad/SendFiles](https://github.com/zihaaaad/SendFiles)
+| Repository | Focus & Architecture | Core Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Rupantor** | Desktop font management suite with Adobe After Effects/Bridge automation, OS-level font registry mapping, and offline licensing. | Electron, React 19, TypeScript, Firebase | [Code](https://github.com/zihaaaad/Rupantor) · [Live Demo](https://zihaaaad.github.io/Rupantor/) |
+| **Chuti (ছুটি)** | Offline-first, on-premises Leave Management System with automated quota deductions, sandwich rule logic, and LAN sharing. | Next.js, TypeScript, SQLite (WAL), Tailwind | [Code](https://github.com/zihaaaad/Chuti) · [Live Demo](https://zihaaaad.github.io/Chuti/) |
+| **EchoScript** | High-fidelity background audio recorder and speech-to-text pipeline integrating Google Gemini API for real-time transcription. | Flutter, Dart, Gemini API, Android Services | [Code](https://github.com/zihaaaad/EchoScript) |
+| **VerifEye** | Real-time AI image detection Chrome extension leveraging Google Gemini Vision models to inspect web pages. | JavaScript, Manifest v3, Gemini Vision API | [Code](https://github.com/zihaaaad/VerifEye-AI-Image-Detector) |
+| **Jontro** | Modern desktop video-to-audio extraction utility supporting batch conversions and high-bitrate transcoding. | Electron, React, TypeScript, FFmpeg | [Code](https://github.com/zihaaaad/Jontro) · [Live Demo](https://zihaaaad.github.io/Jontro/) |
+| **DocuMint** | Offline document processing hub engineered for optical character recognition (OCR), text extraction, and format conversions. | Python, Tesseract OCR, PIL/Pillow, CustomTkinter | [Code](https://github.com/zihaaaad/DocuMint) |
+| **about** | Fast, lightweight, and responsive static personal portfolio website. | Semantic HTML5, Modern CSS3, Vanilla JS | [Code](https://github.com/zihaaaad/about) · [Live Demo](https://zihaaaad.github.io/about/) |
+| **SendFiles** | Web-based peer-to-peer file transfer application utilizing direct browser data channels with real-time transfer state. | WebRTC, TypeScript, React | [Code](https://github.com/zihaaaad/SendFiles) |
 
 ---
 
-## Contact & Professional Links
+## Contact & Profiles
 
-* **Website:** [https://zihadhasan.web.app/](https://zihadhasan.web.app/)
-* **Portfolio:** [https://zihaaaad.github.io/about/](https://zihaaaad.github.io/about/)
+* **Personal Platform:** [https://zihadhasan.web.app/](https://zihadhasan.web.app/)
+* **Portfolio Showcase:** [https://zihaaaad.github.io/about/](https://zihaaaad.github.io/about/)
 * **LinkedIn:** [https://www.linkedin.com/in/pkmzihad/](https://www.linkedin.com/in/pkmzihad/)
-* **GitHub:** [https://github.com/zihaaaad](https://github.com/zihaaaad)
 * **X (Twitter):** [https://x.com/pkmzihad](https://x.com/pkmzihad)
 * **Email:** [zihad.connects@gmail.com](mailto:zihad.connects@gmail.com)
